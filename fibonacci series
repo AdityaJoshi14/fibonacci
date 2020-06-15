@@ -1,0 +1,5 @@
+s=eval(input("enter a number"))
+a,b=0,1
+while b<s
+ print(a)
+ a,b=b,a+b
